@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PicoVNAExamples", "PicoVNAExamples\PicoVNAExamples.pyproj", "{8F2A247D-7A6F-4878-903F-DF1ED8C10549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F2A247D-7A6F-4878-903F-DF1ED8C10549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2A247D-7A6F-4878-903F-DF1ED8C10549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C82D22E3-508C-4C19-85A0-0AFB6C351757}
+	EndGlobalSection
+EndGlobal
