@@ -1,0 +1,31 @@
+# .gitignore file for picosdk-python-examples repository
+# Untracked files/folders to ignore.
+
+# python bytecode cache files
+**/*.pyc
+
+# Microsoft Windows platforms
+
+**/*.dll
+
+# Linux platforms
+
+**/*.so
+
+# macOS platforms
+
+**/*.dylib
+
+# pycharm files
+.idea/
+
+# SDK download warning file
+.sdkwarning
+
+# build folder
+build/
+
+# folders
+* {{.vs}} 
+* Release 
+* Debug
