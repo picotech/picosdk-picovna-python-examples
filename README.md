@@ -1,8 +1,8 @@
 # picosdk-picovna-python-examples
 
-*picosdk-picovna-python-examples* is a set of python examples for the PicoVNA<sup>TM</sup> Vector Network Analyzer.
+*picosdk-picovna-python-examples* is a set of Python examples for the PicoVNA Vector Network Analyzer.
 
-Examples are provided as projects in a Microsoft Visual Studio Community 2017 python solution.
+Examples are provided as projects in a Microsoft Visual Studio Community 2017 solution.
 
 ## Getting started
 
@@ -11,7 +11,7 @@ Examples are provided as projects in a Microsoft Visual Studio Community 2017 py
 #### Microsoft Windows
 
 * [Microsoft Visual Studio 2017](https://www.visualstudio.com/) (including Community edition) or later.  
-* Python 2.7 or 3.6
+* [Python 2.7 or 3.6](https://www.python.org/downloads/)
 * PicoVNA 2 software (see [Installing software](#installing-software))
 
 **Notes:**
@@ -42,7 +42,7 @@ Contributions are welcome. Please refer to our [guidelines for contributing](.gi
 
 See [LICENSE.md](LICENSE.md) for license terms. 
 
-*PicoVNA* is a trademark of Pico Technology Ltd.  
+*PicoVNA* is a registered trademark of Pico Technology Ltd.  
 
 *Windows* and *Visual Studio* are registered trademarks of Microsoft Corporation.
 
