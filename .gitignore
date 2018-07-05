@@ -1,4 +1,4 @@
-# .gitignore file for picosdk-python-examples repository
+# .gitignore file for picosdk-picovna-python-examples repository
 # Untracked files/folders to ignore.
 
 # python bytecode cache files
@@ -8,24 +8,14 @@
 
 **/*.dll
 
-# Linux platforms
-
-**/*.so
-
-# macOS platforms
-
-**/*.dylib
-
 # pycharm files
 .idea/
 
 # SDK download warning file
 .sdkwarning
 
-# build folder
+# Folders
+../.vs/
+../Release/ 
+../Debug/
 build/
-
-# folders
-* {{.vs}} 
-* Release 
-* Debug
