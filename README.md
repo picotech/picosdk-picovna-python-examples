@@ -1,6 +1,6 @@
 # picosdk-picovna-python-examples
 
-*picosdk-picovna-python-examples* is a set of Python examples for the PicoVNA Vector Network Analyzer.
+*picosdk-picovna-python-examples* is a set of Python examples for the PicoVNA<sup>®</sup> Vector Network Analyzer.
 
 Examples are provided as projects in a Microsoft Visual Studio Community 2017 solution.
 
