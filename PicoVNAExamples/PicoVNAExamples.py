@@ -1,3 +1,8 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+#
+# Copyright © 2018 Pico Technology Ltd. See LICENSE file for terms.
+#
 
 import win32com.client
 import numpy as np
