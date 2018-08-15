@@ -15,7 +15,7 @@
 .sdkwarning
 
 # Folders
-../.vs/
-../Release/ 
-../Debug/
-build/
+**/.vs
+**/Release 
+**/Debug
+**/build
