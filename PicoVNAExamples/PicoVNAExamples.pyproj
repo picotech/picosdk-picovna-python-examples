@@ -11,7 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>PicoVNAExamples</Name>
     <RootNamespace>PicoVNAExamples</RootNamespace>
-    <InterpreterId>Global|ContinuumAnalytics|Anaconda27-32</InterpreterId>
+    <InterpreterId>CondaEnv|CondaEnv|Anaconda3</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,12 +22,18 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="module2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PicoVNAExamples.py" />
     <Compile Include="PicoVNAPython Wrapper\2060C37E-D05E-4D5B-AB88-E29373C3C8ECx0x1x0.py" />
+    <Compile Include="PicoVNAPython Wrapper\9B7C3137-F2BB-4D8E-9FDB-450B6D527E5Ex0x1x0.py" />
   </ItemGroup>
   <ItemGroup>
+    <InterpreterReference Include="CondaEnv|CondaEnv|Anaconda3" />
     <InterpreterReference Include="Global|ContinuumAnalytics|Anaconda27-32" />
     <InterpreterReference Include="Global|ContinuumAnalytics|Anaconda36-32" />
+    <InterpreterReference Include="Global|PythonCore|3.8-32" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="PicoVNAPython Wrapper\" />
